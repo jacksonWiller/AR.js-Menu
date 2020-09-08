@@ -1,1 +1,1 @@
-Design of a restaurant menu using augmented reality with the AR.js library
+Testing Augmented Reality with the AR.js library Aplication 
